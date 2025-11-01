@@ -1,6 +1,5 @@
 ## hi
 
 my name is noelle
-\nl
-\nl
+## line break
 my discord is clownycob
